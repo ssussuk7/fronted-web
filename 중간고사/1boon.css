@@ -1,0 +1,111 @@
+.container
+{
+  width: 1000px;
+}
+
+#header
+{
+  width: 1000px;
+  height: 70px;
+}
+
+#menudiv
+{
+  width: 1000px;
+  height: 100px;
+}
+
+#list
+{
+  width: 1000px;
+  height: auto;
+}
+
+.circle
+{
+  width: 100px;
+  height: 100px;
+  background: white;
+  border-radius: 50%;
+  border: 1px solid black;
+  float: left;
+  margin: 0px 110px 0px 110px;
+}
+
+#circletext
+{
+  text-align: center;
+  line-height: 65px;
+  font-family: "굴림";
+}
+
+a
+{
+  text-decoration: none;
+  color: black;
+}
+
+#first
+{
+  width: 300px;
+  height: 400px;
+  margin: 10px;
+  float: left;
+}
+
+#imagediv
+{
+  width: 300px;
+  height: 250px;
+}
+
+#titlediv
+{
+  width: 300px;
+  height:40px;
+}
+
+#footer
+{
+  width: 300px;
+  height: 10px;
+  float: left;
+}
+
+#viewdiv
+{
+  width: 150px;
+  height: auto;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+#href
+{
+  width: 150px;
+  height: auto;
+  text-align: center;
+}
+
+.text-center
+{
+  text-align: center;
+}
+
+#title
+{
+  font-weight: bold;
+  font-size: 17px;
+  text-align: center;
+}
+
+#image
+{
+  width: 300px;
+  height: 250px;
+}
+
+#view
+{
+  text-align: center;
+}
