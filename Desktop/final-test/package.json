@@ -1,0 +1,36 @@
+{
+  "name": "note-wep-app",
+  "version": "1.0.0",
+  "description": "note-test",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp default",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ssussuk",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/advanced-webapps-class/gulp-test.git"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "pretty-bytes": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11"
+  },
+  "keywords": [
+    "note-web-app"
+  ],
+  "bugs": {
+    "url": "https://github.com/advanced-webapps-class/gulp-test/issues"
+  },
+  "homepage": "https://github.com/advanced-webapps-class/gulp-test#readme"
+}
